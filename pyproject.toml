@@ -1,0 +1,18 @@
+resume_job_matching/
+│
+├── app/
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── services/
+│   │   ├── data_cleaning.py
+│   │   ├── feature_engineering.py
+│   │   ├── similarity.py
+│   ├── api/
+│   │   ├── routes.py
+│   ├── tests/
+│   │   ├── test_routes.py
+│   │   ├── test_services.py
+│
+├── requirements.txt
+└── README.md
